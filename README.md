@@ -54,7 +54,8 @@ print("Encrypted message:", cipher_text)
 ~~~
 ## OUTPUT
 
-<img width="893" height="530" alt="Screenshot 2025-09-18 084612" src="https://github.com/user-attachments/assets/68d8c0aa-301a-4287-9894-c111900ff033" />
+<img width="1491" height="708" alt="Screenshot 2025-09-18 091612" src="https://github.com/user-attachments/assets/b77c0a4b-60a2-46c2-84bc-b61f7f1b3655" />
+
 
 ## RESULT
 
